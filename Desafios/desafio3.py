@@ -6,4 +6,4 @@ numero1 = int(input('Digite um número: '))
 numero2 = int(input('Digite outro número: '))
 s = numero1 + numero2
 
-print('A soma dos números é de {}'.format(s))
+print('A soma dos números {} e {} é de {}'.format(numero1, numero2 , s))
